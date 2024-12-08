@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+
+.folder-name {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.folder-name:hover {
+  cursor: pointer;
+  color: blue;
+}
+
+.file {
+  margin: 10px;
+}
