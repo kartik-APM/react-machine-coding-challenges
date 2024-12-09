@@ -1,4 +1,4 @@
-#File-Explorer
+# File-Explorer
 
 Given an array of file objects, build a component that displays them in a hierarchical tree format.
 
